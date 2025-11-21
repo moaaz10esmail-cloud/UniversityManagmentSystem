@@ -1,0 +1,12 @@
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\University\UniversityManagementSystem\UniversityManagementSystem.Core\bin\Release\net8.0\UniversityManagementSystem.Core.deps.json
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\University\UniversityManagementSystem\UniversityManagementSystem.Core\bin\Release\net8.0\UniversityManagementSystem.Core.dll
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\University\UniversityManagementSystem\UniversityManagementSystem.Core\bin\Release\net8.0\UniversityManagementSystem.Core.pdb
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\University\UniversityManagementSystem\UniversityManagementSystem.Core\obj\Release\net8.0\UniversityManagementSystem.Core.csproj.AssemblyReference.cache
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\University\UniversityManagementSystem\UniversityManagementSystem.Core\obj\Release\net8.0\UniversityManagementSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\University\UniversityManagementSystem\UniversityManagementSystem.Core\obj\Release\net8.0\UniversityManagementSystem.Core.AssemblyInfoInputs.cache
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\University\UniversityManagementSystem\UniversityManagementSystem.Core\obj\Release\net8.0\UniversityManagementSystem.Core.AssemblyInfo.cs
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\University\UniversityManagementSystem\UniversityManagementSystem.Core\obj\Release\net8.0\UniversityManagementSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\University\UniversityManagementSystem\UniversityManagementSystem.Core\obj\Release\net8.0\UniversityManagementSystem.Core.dll
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\University\UniversityManagementSystem\UniversityManagementSystem.Core\obj\Release\net8.0\refint\UniversityManagementSystem.Core.dll
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\University\UniversityManagementSystem\UniversityManagementSystem.Core\obj\Release\net8.0\UniversityManagementSystem.Core.pdb
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\University\UniversityManagementSystem\UniversityManagementSystem.Core\obj\Release\net8.0\ref\UniversityManagementSystem.Core.dll

@@ -1,0 +1,5 @@
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\University\UniversityManagementSystem\UniversityManagementSystem.Core\obj\Debug\net8.0\UniversityManagementSystem.Core.csproj.AssemblyReference.cache
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\University\UniversityManagementSystem\UniversityManagementSystem.Core\obj\Debug\net8.0\UniversityManagementSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\University\UniversityManagementSystem\UniversityManagementSystem.Core\obj\Debug\net8.0\UniversityManagementSystem.Core.AssemblyInfoInputs.cache
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\University\UniversityManagementSystem\UniversityManagementSystem.Core\obj\Debug\net8.0\UniversityManagementSystem.Core.AssemblyInfo.cs
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\University\UniversityManagementSystem\UniversityManagementSystem.Core\obj\Debug\net8.0\UniversityManagementSystem.Core.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\University\UniversityManagementSystem\UniversityManagementSystem.Application\bin\Release\net8.0\UniversityManagementSystem.Application.deps.json
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\University\UniversityManagementSystem\UniversityManagementSystem.Application\bin\Release\net8.0\UniversityManagementSystem.Application.dll
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\University\UniversityManagementSystem\UniversityManagementSystem.Application\bin\Release\net8.0\UniversityManagementSystem.Application.pdb
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\University\UniversityManagementSystem\UniversityManagementSystem.Application\bin\Release\net8.0\UniversityManagementSystem.Core.dll
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\University\UniversityManagementSystem\UniversityManagementSystem.Application\bin\Release\net8.0\UniversityManagementSystem.Core.pdb
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\University\UniversityManagementSystem\UniversityManagementSystem.Application\obj\Release\net8.0\UniversityManagementSystem.Application.csproj.AssemblyReference.cache
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\University\UniversityManagementSystem\UniversityManagementSystem.Application\obj\Release\net8.0\UniversityManagementSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\University\UniversityManagementSystem\UniversityManagementSystem.Application\obj\Release\net8.0\UniversityManagementSystem.Application.AssemblyInfoInputs.cache
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\University\UniversityManagementSystem\UniversityManagementSystem.Application\obj\Release\net8.0\UniversityManagementSystem.Application.AssemblyInfo.cs
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\University\UniversityManagementSystem\UniversityManagementSystem.Application\obj\Release\net8.0\UniversityManagementSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\University\UniversityManagementSystem\UniversityManagementSystem.Application\obj\Release\net8.0\Universi.0F88F4BC.Up2Date
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\University\UniversityManagementSystem\UniversityManagementSystem.Application\obj\Release\net8.0\UniversityManagementSystem.Application.dll
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\University\UniversityManagementSystem\UniversityManagementSystem.Application\obj\Release\net8.0\refint\UniversityManagementSystem.Application.dll
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\University\UniversityManagementSystem\UniversityManagementSystem.Application\obj\Release\net8.0\UniversityManagementSystem.Application.pdb
+C:\Users\Moaaz\Documents\ASP.NET Core Projetcs\University\UniversityManagementSystem\UniversityManagementSystem.Application\obj\Release\net8.0\ref\UniversityManagementSystem.Application.dll

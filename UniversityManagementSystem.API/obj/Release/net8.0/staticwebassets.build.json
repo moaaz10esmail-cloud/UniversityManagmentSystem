@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "PPbtxXOLHzrmQb6i2gynf3ttvPmKvhjo9CUwUlInwPY=",
+  "Source": "UniversityManagementSystem.API",
+  "BasePath": "_content/UniversityManagementSystem.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "UniversityManagementSystem.API\\wwwroot",
+      "Source": "UniversityManagementSystem.API",
+      "ContentRoot": "C:\\Users\\Moaaz\\Documents\\ASP.NET Core Projetcs\\University\\UniversityManagementSystem\\UniversityManagementSystem.API\\wwwroot\\",
+      "BasePath": "_content/UniversityManagementSystem.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
